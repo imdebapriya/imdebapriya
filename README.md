@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @imdebapriya
+- 👋 Hi, I’m @dmvrif
 - 👀 I’m interested in codes
 - 🌱 I’m currently learning writing codes
 - 💞️ I’m looking to collaborate on learning R
-- 📫 To reach me ahab_finix@yahoo.co.uk
+- 📫 To reach me debapriyam@live.com
 
 <!---
-imdebapriya/imdebapriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+dmvrif/dmvrif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
